@@ -1,5 +1,25 @@
 # README for Machine Learning and Generative AI Course
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Course Structure](#course-structure)
+   - [1. Introduction to Machine Learning and Deep Learning](#1-introduction-to-machine-learning-and-deep-learning)
+   - [2. PyTorch and Classification](#2-pytorch-and-classification)
+   - [3. Introduction to Generative AI](#3-introduction-to-generative-ai)
+   - [4. Generative AI for Text](#4-generative-ai-for-text)
+   - [5. Generative AI for Images and Video](#5-generative-ai-for-images-and-video)
+   - [6. Applications of Generative AI in QA and Chatbots](#6-applications-of-generative-ai-in-qa-and-chatbots)
+   - [7. Applications in Image Analysis and Digital Content Creation](#7-applications-in-image-analysis-and-digital-content-creation)
+3. [Assignments](#assignments)
+   - [Text-to-Image Generation Pipeline](#text-to-image-generation-pipeline)
+      - [Step 1: Generate a Descriptive Text Based on a Sample](#step-1-generate-a-descriptive-text-based-on-a-sample)
+      - [Step 2: Refine the Generated Description for Visual Details](#step-2-refine-the-generated-description-for-visual-details)
+      - [Step 3: Generate an Image Based on the Description](#step-3-generate-an-image-based-on-the-description)
+      - [Step 4: Evaluate and Refine the Generated Image](#step-4-evaluate-and-refine-the-generated-image)
+      - [Step 5: Enhance with Feedback Loop and Variations](#step-5-enhance-with-feedback-loop-and-variations)
+4. [Prerequisites](#prerequisites)
+5. [Tools and Libraries](#tools-and-libraries)
+6. [Conclusion](#conclusion)
 ## Overview
 This course provides a comprehensive overview of foundational concepts in Machine Learning (ML) and Deep Learning (DL), along with practical applications in Generative AI. Participants will explore various models, techniques, and tools, gaining hands-on experience with Python and popular libraries.
 
